@@ -1,2 +1,2 @@
 # project-graph
-A graph framework to make transactions, searchs and general graph operations.
+Final work of the course of programming techniques I.
